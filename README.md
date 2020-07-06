@@ -1,6 +1,6 @@
 # GDBrowser
 
-[YOU WANNA GO HERE!](mcmistrzyt.github.io/ForkedGDBrowser/html/home)
+[Click here to actually use the browser!](https://mcmistrzyt.github.io/ForkedGDBrowser/html/home)
 
 Uh... so I've never actually used GitHub before this. But I'll try to explain everything going on here.
 
