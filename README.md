@@ -1,5 +1,7 @@
 # GDBrowser
 
+[YOU WANNA GO HERE!](mcmistrzyt.github.io/ForkedGDBrowser/html/home)
+
 Uh... so I've never actually used GitHub before this. But I'll try to explain everything going on here.
 
 Sorry for my messy code. It's why I was skeptical about making this open source, but you know what, the code runs fine in the end.
