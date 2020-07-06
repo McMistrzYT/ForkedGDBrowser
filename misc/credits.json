@@ -9,6 +9,14 @@
         },
 
         {
+            "header": "Programming",
+            "name": "McMistrzYT",
+            "youtube": ["https://youtube.com/c/mcmistrzyt", "youtube"],
+            "twitter": ["https://twitter.com/mcmistrzyt", "twitter"],
+            "github": ["https://github.com/McMistrzYT", "github"]
+        },
+
+        {
             "header": "Additional Help",
             "name": "101arrowz",
             "ign": "genius991",
